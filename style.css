@@ -1,0 +1,339 @@
+ .headernav {
+     background-color: #293740;
+     top: 0;
+     position: fixed;
+     width: 100%;
+     left: 0;
+     right: 0;
+     height: 60px;
+
+
+ }
+
+ .container {
+
+     width: 1170px;
+     margin-left: auto;
+     margin-right: auto;
+
+ }
+
+ .menu {
+     float: right;
+     word-spacing: 72px;
+     font-size: 20px;
+     color: white;
+ }
+
+ .g2 {
+     color: #eba825;
+     font-size: 25px;
+     margin-top: 18px;
+ }
+
+ .home_caption {
+     width: 100%;
+     height: 529px;
+     margin-top: 49px;
+     background-image: url("code-programming-syntax.jpg");
+ }
+
+ .captionwrp {
+     width: 500px;
+     background-color: rgba(55, 57, 57, .85);
+     padding: 11px;
+     margin-right: 50%;
+     position: absolute;
+     margin-left: 69%;
+     margin-top: 327px;
+ }
+
+ .captiontext {
+     font-size: 52px;
+     color: white;
+     font-weight: 800;
+ }
+
+ .menucourse {
+     background-color: #f5f5f5;
+     width: 100%;
+     height: 1305px;
+
+ }
+
+ .contenwraper {
+     position: absolute;
+     left: 0;
+     right: 0;
+     width: 100%;
+     z-index: -2;
+ }
+
+ .course {
+     padding-top: 19px;
+     font-size: 37px;
+     text-align: center;
+     font-family: sans-serif;
+     font-weight: bold;
+     color: grey;
+ }
+
+ .descrip {
+     text-align: center;
+     font-size: 15px;
+     font-weight: 600;
+     color: grey;
+ }
+
+ .textexpat {
+     font-size: 20px;
+     text-align: center;
+     font-weight: 600;
+     padding-top: 23px;
+     color: grey
+ }
+
+ .blok-class {
+     margin-top: 29px;
+     display: flex;
+     justify-content: center;
+
+ }
+
+ .blok {
+     width: 260px;
+     background-color: white;
+     padding: 10px 15px;
+     margin-left: 37px;
+     height: 205px;
+ }
+
+ .datasience {
+     font-size: 19px;
+     padding-top: 10px;
+     padding-bottom: 7px;
+     font-weight: 700;
+ }
+
+
+ .englishclass {
+     background: black;
+     color: white;
+     font-size: 15px;
+
+
+
+ }
+
+ .jakarta {
+     padding-top: 14px;
+     color: grey
+ }
+
+ .date {
+     font-size: 14px;
+     color: grey
+ }
+
+ input.register {
+     margin-top: 68px;
+     width: 292px;
+     height: 42px;
+     margin-left: -16px;
+     color: white;
+     background-color: #d97901;
+     border: 1px solid #d97901;
+ }
+
+ .textgeek {
+     padding-top: 118px;
+     font-size: 25px;
+     margin-right: -34px;
+     text-align: center;
+     font-weight: 600;
+     color: grey;
+ }
+
+ .blok-partime {
+     margin-top: 29px;
+     display: flex;
+     justify-content: center;
+     padding-top: 75px;
+
+ }
+
+ input.topic {
+     height: 40px;
+     margin-top: 23px;
+     width: 174px;
+     margin-right: -36px;
+     background-color: white;
+     color: #d97901;
+     border: 1px;
+ }
+
+ .join {
+     background-color: white;
+     width: 100%;
+
+ }
+
+ .textjoin {
+     font-size: 26px;
+     text-align: center;
+     margin-right: -31px;
+     margin-top: 49px;
+     color: grey;
+     font-weight: bold;
+ }
+
+ .img {
+     width: 153px;
+     margin-top: 25px;
+ }
+
+ .img1 {
+     flex: 1;
+ }
+
+ .img2 {
+     flex: 1;
+     margin-right: -16px;
+ }
+
+ .img3 {
+     flex: 0;
+     margin-right: 98px;
+ }
+
+ .img4 {
+     flex: 1;
+ }
+
+ .img5 {
+     flex: 1;
+ }
+
+ .textdes {
+     font-size: 17px;
+     font-weight: 700;
+     color: #4e4f4f;
+     margin-bottom: 10px;
+ }
+
+ .wrpjoin {
+     display: flex;
+     margin-left: 91px;
+ }
+
+ .wrpjoin2 {
+     display: flex;
+     text-align: center;
+ }
+
+ .testi {
+     background-color: #f5f5f5;
+     width: 100%;
+     height: 780px;
+ }
+
+ .testimonial {
+     text-align: center;
+     font-size: 37px;
+     font-weight: 700;
+     color: grey;
+     padding-top: 26px;
+ }
+
+ .testimonial1 {
+     text-align: center;
+     padding-top: 5px;
+     font-size: 15px;
+     color: grey;
+ }
+
+ .video-testimonial {
+     text-align: center;
+     padding-top: 27px;
+ }
+
+ iframe {
+     width: 400px;
+     height: 260px;
+ }
+
+ .testi-blok {
+     margin-top: 27px;
+     display: flex;
+     justify-content: center;
+ }
+
+ .testi-text-1 {
+
+     text-align: center;
+     padding-top: 120px;
+     font-size: 15px;
+     padding-left: 15px;
+     padding-right: 25px;
+     margin-left: 17px;
+     color: white;
+ }
+
+ .wrap-blok {
+     width: 332px;
+     height: 309px;
+     background-color: #f5aa41;
+     margin: 10px 10px;
+ }
+
+ .testi-text-2 {
+     text-align: center;
+     padding-top: 46px;
+     font-size: 16px;
+     padding-right: 25px;
+     margin-left: 17px;
+     color: white;
+ }
+
+ .footer {
+     width: 100%;
+     background-color: #1f282e
+ }
+
+ .wrpfooter {
+     height: 308px;
+     width: 347px;
+     box-sizing: border-box;
+     padding-top: 37px;
+     color: white;
+ }
+
+ .text-footer {
+     font-size: 16px;
+ }
+
+ .placeholder {
+     border: none;
+     background-color: #fff;
+     padding: 10px;
+     width: 59%;
+     color: #929292;
+     outline: none;
+     transition: all .3s ease-in-out;
+     border-radius: 5px;
+     font-size: 15px;
+ }
+
+ .notif {
+     right: 0px;
+     top: 0;
+     background-color: #ffa801;
+     height: 104%;
+     padding: 10px 15px;
+     font-size: 16px;
+     font-weight: 700;
+     border-top-right-radius: 5px;
+     border-bottom-right-radius: 5px;
+     margin-left: -16px;
+     color: white;
+ }
